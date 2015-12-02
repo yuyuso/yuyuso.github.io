@@ -1,0 +1,18 @@
+.class1 {
+    font-size: 30px;
+}
+
+.class2 {
+    font-size: 20px;
+    font-style: normal;
+    background-color: #EEE;
+}
+
+.class3 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+ul {
+    font-style: italic;
+}

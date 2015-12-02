@@ -1,0 +1,36 @@
+body {
+    color: silver;
+    background-color: #555;
+}
+
+h1~ul h2 {
+    color: #20bc8e;
+}
+
+.class1 {
+    font-size: 30px;
+}
+
+div>h2 {
+    background-color: #20bc8e;
+    color: #FFF;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+div p {
+    font-style: oblique;
+}
+
+.class2 {
+    background-color: #20bc8e;
+    color: #FFF;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+#section1,
+#section3 {
+    font-style: italic;
+    color: #0000FF;
+}
