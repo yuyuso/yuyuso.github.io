@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+p {
+    text-align: center;
+}
+
+#header {
+    background-color: #999999;
+}
+
+#box1 {
+    background-color: #CCCCCC;
+    height: 300px;
+}
+
+#box2 {
+    background-color: #CCCCCC;
+    height: 300px;
+}
+
+#box3 {
+    background-color: #CCCCCC;
+    height: 300px;
+}

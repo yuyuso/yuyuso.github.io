@@ -1,0 +1,43 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    /*    border: 3px dashed black; cannot*/
+}
+
+#header {
+    width: 1000px;
+    height: 70px;
+    background-color: #B2F58B;
+}
+
+#left {
+    width: 300px;
+    background-color: #F585A5;
+    float: left;
+}
+
+#center {
+    width: 400px;
+    background-color: #F7A956;
+    float: left;
+}
+
+#right {
+    width: 300px;
+    background-color: #F585A5;
+    float: left;
+}
+
+#footer {
+    width: 1000px;
+    height: 50px;
+    background-color: #AE6FF3;
+    clear: both;
+}
